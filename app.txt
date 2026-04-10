@@ -1,0 +1,5 @@
+Inicio
+Mostrar lista de tareas
+Permitir agregar tarea
+Guardar tarea
+Fin
